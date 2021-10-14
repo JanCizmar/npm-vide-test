@@ -1,0 +1,15 @@
+{
+  "name": "npm-video-test",
+  "version": "1.0.0",
+  "description": "A package which has video in readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "index.js",
+    "video.mp4"
+  ],
+  "author": "",
+  "license": "ISC"
+}
